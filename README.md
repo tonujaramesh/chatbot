@@ -1,6 +1,6 @@
 # Code And Converse
 
-• Project: AI Chatbot – Based on   LLaMA Architecture
+Project: AI Chatbot – Based on   LLaMA Architecture
 
 • Developed an AI-driven conversational model using Meta’s LLaMA architecture.
 
