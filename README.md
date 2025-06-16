@@ -1,2 +1,9 @@
 # Code And Converse
- It's an ai driven model from llama ai model and it's called Sasta ChatGPT it's quite slow we are looking forward to make it update in future days
+
+• Project: AI Chatbot – Based on   LLaMA Architecture
+
+• Developed an AI-driven conversational model using Meta’s LLaMA architecture.
+
+• Focused on building a lightweight and cost-efficient alternative to existing AI assistants.
+
+• Currently working on enhancing model speed and responsiveness for future updates.
